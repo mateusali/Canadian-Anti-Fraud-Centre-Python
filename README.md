@@ -1,4 +1,5 @@
 # Fraud Report Classification – Canadian Anti-Fraud Centre (Python)
+#### Link to download dataset : https://open.canada.ca/data/en/dataset/6a09c998-cddb-4a22-beff-4dca67ab892f/resource/43c67af5-e598-4a9b-a484-fe1cb5d775b5
 
 This project applies **machine learning and statistical analysis** to fraud report data from the Canadian Anti-Fraud Centre.  
 The goal is to **predict fraud classifications** while handling real-world challenges such as missing values, outliers, collinearity, and imbalanced data.  
